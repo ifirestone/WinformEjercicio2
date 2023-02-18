@@ -1,0 +1,17 @@
+C:\Users\ifire\Developer\WinFormsEjercicio2\bin\Debug\net6.0-windows\WinFormsEjercicio2.exe
+C:\Users\ifire\Developer\WinFormsEjercicio2\bin\Debug\net6.0-windows\WinFormsEjercicio2.deps.json
+C:\Users\ifire\Developer\WinFormsEjercicio2\bin\Debug\net6.0-windows\WinFormsEjercicio2.runtimeconfig.json
+C:\Users\ifire\Developer\WinFormsEjercicio2\bin\Debug\net6.0-windows\WinFormsEjercicio2.dll
+C:\Users\ifire\Developer\WinFormsEjercicio2\bin\Debug\net6.0-windows\WinFormsEjercicio2.pdb
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.csproj.AssemblyReference.cache
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.Form1.resources
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.csproj.GenerateResource.cache
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.AssemblyInfoInputs.cache
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.AssemblyInfo.cs
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.dll
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\refint\WinFormsEjercicio2.dll
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.pdb
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\WinFormsEjercicio2.genruntimeconfig.cache
+C:\Users\ifire\Developer\WinFormsEjercicio2\obj\Debug\net6.0-windows\ref\WinFormsEjercicio2.dll
